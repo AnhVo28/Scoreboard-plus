@@ -3,7 +3,8 @@ import Counter from './Counter';
 
 const Player = props => (
   <div className="player">
-    <div className="player-name">
+    <div className="player-name"
+      onClick={()=>props.selectPlayer(props.index)}>
       <a className="remove-player"
         onClick={() => props.removePlayer(props.index)}>
         ✖
