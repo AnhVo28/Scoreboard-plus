@@ -2,7 +2,7 @@
 
 ## This is Scoreboard-plus application.
 
-<img src='https://imgur.com/a/Kw8mC'>
+<img src='http://i.imgur.com/PF1NhtU.png'>
 
 ###How to run the app:
  npm install
